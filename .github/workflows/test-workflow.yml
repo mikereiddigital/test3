@@ -48,5 +48,5 @@ jobs:
       - name: test2
         if: env.ACCOUNT_NUMBER == '1234567890'
         run: |
-         echo 'it works'
+         echo 'yes it does work'
 
